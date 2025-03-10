@@ -36,6 +36,9 @@ function App() {
             <p className="text-2xl md:text-3xl text-white/90 mb-4">
               Premium Domain For Sale
             </p>
+            <div className="text-3xl font-bold text-yellow-300 mb-8 animate-pulse">
+              $2,000
+            </div>
             <p className="text-lg text-white/80 mb-8 max-w-2xl mx-auto">
               Secure this memorable domain for your next big project
             </p>
@@ -134,6 +137,9 @@ function App() {
             <p className="text-lg text-gray-600 mb-8">
               Don't miss the opportunity to own this premium domain
             </p>
+            <div className="text-2xl font-bold text-violet-600 mb-8">
+              Price: $2,000
+            </div>
             <div className="inline-flex items-center justify-center space-x-2 text-lg text-violet-600 hover:text-violet-700 transition-colors">
               <Mail className="w-6 h-6" />
               <a href="mailto:sethukumartirumanyam@gmail.com" className="hover:underline">
